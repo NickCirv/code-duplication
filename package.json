@@ -1,0 +1,29 @@
+{
+  "name": "code-duplication",
+  "version": "1.0.0",
+  "description": "Find duplicate and near-duplicate code blocks across files. DRY enforcement tool. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "code-duplication": "./index.js",
+    "dup": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "code-quality",
+    "duplication",
+    "dry",
+    "refactoring",
+    "static-analysis"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
