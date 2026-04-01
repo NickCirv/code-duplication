@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # code-duplication
 
 Find duplicate and near-duplicate code blocks across files. DRY enforcement tool. Zero external dependencies — built-in Node.js modules only.
